@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **thrishakannan25@gmail.com**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAFCdbIwWYg/JWleWEgizoENklVNJNlEoQ/view?utm_content=DAFCdbIwWYg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFCdbIwWYg/JWleWEgizoENklVNJNlEoQ/view?utm_content=DAFCdbIwWYg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thrisha-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thrisha-k" height="30" width="40" /></a>
