@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thrisha K</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **NoTIme**
+- 🔭 I’m currently working on **NoTime**
 
 - 🌱 I’m currently learning **React,Docker**
 
